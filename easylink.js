@@ -1,15 +1,3 @@
-/* this linkedin script
-
-clicks on random amount of post on Linkedin Like
-
-afterwards it scroll to the post with the most amount of comments
-
-So you can add you comments if you want gain the most visibility with one comment.
-
-You still have to write the comment youself.
-
-copy pase this in to the javascrip console. top of chrome -> view -> developer -> javascript console */
-
 function scrollAndCountButtons() { // Scroll down 2000 pixels window.scrollBy(0, 2000);
 
 // Wait for the scroll to complete
